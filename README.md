@@ -1,2 +1,2 @@
 # voltage_current-Set-up
-set different voltage and current by recevicing different i2c commands.
+set different voltage and current by receiving different i2c commands.
